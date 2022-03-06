@@ -1,0 +1,19 @@
+.bn {
+     width: 300px;
+     height: 200px;
+     background-color: aqua;
+     text-align: center;
+     border-radius: 24px ;
+}
+input{
+    width: 200px;
+    height: 40px;
+    border-radius: 29px;
+
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 29px;
+    background-color: burlywood;
+}
